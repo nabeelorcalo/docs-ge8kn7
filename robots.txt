@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1w49bf.salamcuanwin.sbs/sitemap.xml
